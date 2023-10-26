@@ -13,7 +13,8 @@ Building model to predict customer likelihood to churn
 Three dataset was provided; 
 - Data description: gives description to the data features
 - Train (243787, 21) to train the model and find the champion model with best evaluation score
-- Test (104480, 20) to use champion model on to predict customer churn probability  
+- Test (104480, 20) to use champion model on to predict customer churn probability
+
 Note: [Train data on google drive](https://drive.google.com/file/d/1SDhTmbXEBtFOW01AHBSBe9x6FhLm9ZcN/view?usp=sharing)
 
 ## Analysis
