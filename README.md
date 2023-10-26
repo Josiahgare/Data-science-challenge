@@ -27,3 +27,5 @@ Note: [Train data on google drive](https://drive.google.com/file/d/1SDhTmbXEBtFO
 
 ## Submission of challenge
 Final prediction was submitted as csv file and scored 89th percentile
+
+Note: This project's dataset was created for pedagogical purposes and may not be indicative of customer's behavior.
