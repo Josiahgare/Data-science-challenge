@@ -7,7 +7,7 @@ Building model to predict customer likelihood to churn
 
 **Problem statement:** VSC wants to know the likelihood of customer churn on their platforms.
 
-**Solution:** Building a model will help VSC solve this problem and keep them proactively involved in retaining their customers.
+**Solution:** Building a model to help VSC solve this problem and keep them proactively involved in retaining their customers.
 
 ## Dataset
 Three dataset was provided; 
